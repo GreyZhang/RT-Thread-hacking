@@ -9,7 +9,6 @@
 - [[https://greyzhang.blog.csdn.net/article/details/122764211][1118_野火RT-Thread教程学习笔记2]]
 - [[https://greyzhang.blog.csdn.net/article/details/122764351][1119_野火RT-Thread教程学习3_Keil仿真功能的使用]]
 - [[https://greyzhang.blog.csdn.net/article/details/122765050][1120_野火RT-Thread教程学习4_RTT学习基础知识梳理]]
-- [[https://greyzhang.blog.csdn.net/article/details/122765400][1121_AURIX_TC275_lite开发板说明文档中开发板基本信息梳理]]
 ** RT-Thread应用
 ** RT-Thread内核分析
 ** RT-Thread移植
